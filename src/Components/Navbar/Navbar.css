@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+
+.menus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+.menus li{
+    list-style: none;
+    cursor: pointer;
+}
